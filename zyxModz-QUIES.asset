@@ -19,5 +19,5 @@ MonoBehaviour:
   _websiteUrl: 
   _dependencies:
   - Zehs-REPOLib-2.0.1
-  _icon: {fileID: 0}
+  _icon: {fileID: 21300000, guid: e1cbbc7a17bbea043989fd4ed0279e56, type: 3}
   _readme: {fileID: 0}
