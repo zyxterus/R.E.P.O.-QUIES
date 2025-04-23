@@ -113,7 +113,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   durabilityPreset: {fileID: 11400000, guid: e9600d03ea14f574bbd3bee0e68f2027, type: 2}
-  valuePreset: {fileID: 11400000, guid: 2b1f8861c4c29964db5106688410b3f2, type: 2}
+  valuePreset: {fileID: 11400000, guid: 5ffb9f0652763a641a0a09dfb4d9d1fc, type: 2}
   physAttributePreset: {fileID: 11400000, guid: fb3ffcecbf01b11489398ea87d3c8a59, type: 2}
   audioPreset: {fileID: 11400000, guid: 9ec2cc5081f9a084c9596dd858b8861b, type: 2}
   audioPresetPitch: 1
@@ -222,8 +222,8 @@ MonoBehaviour:
   CurrentRooms: []
   Continuous: 1
   DebugCheckPosition: 1
-  CheckPosition: {x: -0.16189778, y: 0.29171458, z: 1.0545701}
-  currentSize: {x: 1.1381402, y: 0.4520492, z: 0.87919545}
+  CheckPosition: {x: -0.07, y: 0.25, z: 1}
+  currentSize: {x: 1.19, y: 0.5, z: 0.94}
 --- !u!114 &114972896943581722
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -575,8 +575,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.052252088, y: 0.14592192, z: 0.17079748}
-  m_Center: {x: -0.15763319, y: -0.35953978, z: 0.5018273}
+  m_Size: {x: 0.052252088, y: 0.14592189, z: 0.14990306}
+  m_Center: {x: -0.15763342, y: -0.35953975, z: 0.4913805}
 --- !u!114 &4770017188371664021
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -667,8 +667,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.052252088, y: 0.14592192, z: 0.17079748}
-  m_Center: {x: -0.15763319, y: -0.35953978, z: 0.5018273}
+  m_Size: {x: 0.052252088, y: 0.14592189, z: 0.15016046}
+  m_Center: {x: -0.15763336, y: -0.35953978, z: 0.49150857}
 --- !u!114 &4113341613957757869
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _name: zyxModz_QUIES
   _author: zyxerus
-  _version: 1.0.0
-  _description: 
+  _version: 1.0.2
+  _description: A R.E.P.O. mod with stuff from QUIES.
   _websiteUrl: 
   _dependencies:
   - Zehs-REPOLib-2.0.1
   _icon: {fileID: 21300000, guid: e1cbbc7a17bbea043989fd4ed0279e56, type: 3}
-  _readme: {fileID: 0}
+  _readme: {fileID: 4900000, guid: 2cd7359210b9f18408d06cf14485b9db, type: 3}
